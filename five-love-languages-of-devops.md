@@ -58,6 +58,8 @@ Physical Touch
 ^ Add mention of incenting employees; use Etsy example. You incent for the behavior that you want and then that behavior drives culture which drives further behavior.
 
 ---
+![fit right](images/xkcd.png)
+
 # automation
 
 ^ Stuff like chef, puppet, automated release, automated testing. Manual steps when not needed are a problem.
