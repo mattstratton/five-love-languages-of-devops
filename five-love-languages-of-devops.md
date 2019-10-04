@@ -1,11 +1,14 @@
 ## The Five Love Languages of DevOps
 
+
 ---
 
 # whoami
 
-![inline 65%](images/chef.png)![200%](images/ado.png)
-![60%](images/dodchi.png)![50%](images/licenseplate.jpg)
+![inline 40%](images/pagerduty.png)![10%](images/ado.png)
+![60%](images/dodchi.jpg)![50%](images/licenseplate.jpg)
+
+^ Oh yeah, I'm also @mattstratton on the twitters.
 
 ---
 
